@@ -6,6 +6,10 @@ You know those family recipe books? Of course you do. These books are a great wa
 
 This web app is to serve as a modern recipe book - a way to save digital recipes over time. In addition, it's a way to record general information about those recipes to help inspire meals.
 
-### Development information
+## Development information
 
 This web app was built using R, Shiny, and DT - special thanks to Winston Chang for Yihue Xie for their work in developing these packages.
+
+## My version
+
+My version of the app is running [here](https://markroepke.shinyapps.io/shiny_recipe_book/).
